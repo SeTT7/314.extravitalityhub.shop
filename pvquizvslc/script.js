@@ -206,7 +206,7 @@
     var btn = document.getElementById('btn-vsl-gate');
     if (container) {
       var player = document.createElement('vturb-smartplayer');
-      player.id = 'vid-6a835e1886fda987d28e6f52';
+      player.id = 'vid-6abe3b7da582dca9e67a0a54';
       player.style.cssText = 'display: block; margin: 0 auto; width: 100%; max-width: 400px;';
       var placeholder = document.createElement('div');
       placeholder.className = 'vturb-player-placeholder';
@@ -215,7 +215,7 @@
       container.appendChild(player);
 
       var s = document.createElement('script');
-      s.src = 'https://scripts.converteai.net/4d063052-ebb4-4a44-96e2-84dbb61688f2/players/6a835e1886fda987d28e6f52/v4/player.js';
+      s.src = 'https://scripts.converteai.net/c7daae54-28f8-4e09-90be-5fed14986104/players/6abe3b7da582dca9e67a0a54/v4/player.js';
       s.async = true;
       document.head.appendChild(s);
     }
@@ -391,7 +391,7 @@
     var container = document.getElementById('vsl-container');
     if (container) {
       var player = document.createElement('vturb-smartplayer');
-      player.id = 'vid-6a835e20323d3393230b9c91';
+      player.id = 'vid-6abe3b80de5ac7ef8e067e42';
       player.style.cssText = 'display: block; margin: 0 auto; width: 100%; max-width: 400px;';
       var placeholder = document.createElement('div');
       placeholder.className = 'vturb-player-placeholder';
@@ -400,7 +400,7 @@
       container.appendChild(player);
 
       var s = document.createElement('script');
-      s.src = 'https://scripts.converteai.net/4d063052-ebb4-4a44-96e2-84dbb61688f2/players/6a835e20323d3393230b9c91/v4/player.js';
+      s.src = 'https://scripts.converteai.net/c7daae54-28f8-4e09-90be-5fed14986104/players/6abe3b80de5ac7ef8e067e42/v4/player.js';
       s.async = true;
       document.head.appendChild(s);
     }
